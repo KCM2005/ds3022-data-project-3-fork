@@ -1,0 +1,10 @@
+packages:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../packages.duckdb
+      schema: main
+      threads: 4
+      keepalives_idle: 0
+      search_path: main
