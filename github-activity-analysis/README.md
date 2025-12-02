@@ -23,8 +23,8 @@ The bar plot displaying the top 10 repositories by the number of PushEvents from
 
 ## Plot / Visualization
 
-![PushEvents per Repository](visualizations/PushEvents_repo_usage.png)
-![Average Events per Hour](visualizations/average_events.png)
+![Alt text](visualizations/PushEvents_repo_usage.png)
+![Alt text](visualizations/average_events.png)
 
 ## GitHub Repository
 
